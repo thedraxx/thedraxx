@@ -18,8 +18,6 @@
 <a href="https://www.linkedin.com/in/cerranofrancisco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cerranofrancisco/" height="30" width="40" /></a>
 <a href="https://discord.gg/Thedraxx#7349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Thedraxx#7349" height="30" width="40" /></a> 
 </p>
-
-
 <!--
 **thedraxx/thedraxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
