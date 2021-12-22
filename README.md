@@ -39,8 +39,8 @@
 <p align="center">
   
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="Frank: cerrano.francisco22@gmail.com">
- <img src="https://img.shields.io/badge/-francisco-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+<a href="https://mail.google.com/mail/u/2/#inbox?compose=new">
+ <img src="https://img.shields.io/badge/-francisco-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cerrano.francisco22@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/cerranofrancisco/">
  <img src="https://img.shields.io/badge/-frank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
