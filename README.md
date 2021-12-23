@@ -5,7 +5,7 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/thedraxx/ritik307"/> 
+ <img src="https://badges.pufler.dev/visits/thedraxx/thedraxx"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
  <img src="https://badges.pufler.dev/repos/thedraxx"/>
  <img src="https://badges.pufler.dev/commits/monthly/thedraxx" />
