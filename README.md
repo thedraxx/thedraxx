@@ -53,18 +53,5 @@
   <img src="https://media.giphy.com/media/CX4qeENSjFiKI/giphy.gif" alt="shinji"></center>
 </p>
 
-<h2 align="center">
-  My Github Stats:
-</h2>
- 
-<br>
-
-<p align = "center">
-  <div align="center">
-  <a href="https://github.com/thedraxx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thedraxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedraxx&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-</p>
 
 
