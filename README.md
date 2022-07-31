@@ -3,13 +3,7 @@
 </p align="center">
 <img src="https://user-images.githubusercontent.com/55867157/147013965-7be6eeb5-1256-45b4-9b2d-bec33bf46a09.png" />
 
-<p align="center">
- 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/thedraxx"/>
- <img src="https://badges.pufler.dev/commits/monthly/thedraxx" />
 
-</p>
 
 <p align="center">
   I'm a 3rd year student at Tecnico Superior en Desarrollo de Software 🎓 from Escuela Superior de Comercio J. J. Urquiza N° 49 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
