@@ -46,8 +46,6 @@
 </p>
 
 
-[![Frank's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thedraxx&&theme=xcode)](https://github.com/thedraxx)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedraxx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thedraxx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedraxx&show_icons=true&locale=en&theme=tokyonight" alt="thedraxx" /></p>
