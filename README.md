@@ -46,9 +46,14 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedraxx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thedraxx" /></p>
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedraxx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thedraxx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedraxx&show_icons=true&locale=en&theme=tokyonight" alt="thedraxx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedraxx&&theme=tokyonight" alt="thedraxx" /></p>
+</div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/55867157/191573347-cbaf078b-f9f0-4e12-b55b-7741cb02e1e7.gif" alt="jujutsu"></center>
+</div>
