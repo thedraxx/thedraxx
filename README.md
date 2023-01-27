@@ -1,48 +1,40 @@
-<p align="center">
- 
-</p align="center">
-<img src="https://user-images.githubusercontent.com/55867157/147013965-7be6eeb5-1256-45b4-9b2d-bec33bf46a09.png" />
+## Hello World 👋 It's [Frank!](https://Frank.dev.ar)
+I'm a Frontend developer with my ♥ in [React](https://reactjs.org).
 
+<br/>
 
-
-<p align="center">
-  I'm a 3rd year student at Tecnico Superior en Desarrollo de Software 🎓 from Escuela Superior de Comercio J. J. Urquiza N° 49 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>  
-
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
- <img src="https://img.shields.io/badge/TypeScript-00337C?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/-redux-orange?style=for-the-badge&logo=redux"/>
-<img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
-</p>
-
-<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
-<p align="center">
-  
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: cerrano.francisco22@gmail.com">
- <img src="https://img.shields.io/badge/-Frank-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cerrano.francisco22@gmail.com"/>
+<a href="https://twitter.com/ThedraxxWorld">
+<img align="left" alt="Francisco Cerrano Twitter" width="35px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://www.linkedin.com/in/cerranofrancisco/">
- <img src="https://img.shields.io/badge/-frank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+<img align="left" alt="francisco Cerrano LinkedIN" width="35px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
- <a href="https://twitter.com/thedraxxworld">
- <img src="https://img.shields.io/badge/-thedraxx-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+<a href="https://www.instagram.com/62bits/">
+<img align="left" alt="Francisco Cerrano Instagram" width="35px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
-</p>
+<br />
 
+<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
 
-<h2 align="center">
-  Say hello to this snake<img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/CX4qeENSjFiKI/giphy.gif" alt="shinji"></center>
-</p>
+<br />
+
+## What i'm up to
+
+- 🔭 I’m currently working @ [Vercel](https://vercel.com).
+- 🌱 I’m currently working with [React](https://reactjs.org).
+- 👯 Owner of a Developer Community.
+- 💬 Creating content in [my blog](https://blog.gonzalopozzo.com), [Twitch](https://twitch.gonzalopozzo.com) and [YouTube](https://youtube.gonzalopozzo.com).
+
+<br />
+
+## Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+
+---
+
+![Goncy's github stats](https://github-readme-stats.vercel.app/api?username=goncy&show_icons=true&hide_border=true)
 
