@@ -14,27 +14,29 @@ I'm a Frontend developer with my ♥ in [React](https://reactjs.org).
 </a>
 <br />
 
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/55867157/215115423-0c03d07a-5d81-478d-8efb-05924bcc674c.jpg" width="200px" style="border-radius:50px" />
 
 <br />
 
 ## What i'm up to
 
-- 🔭 I’m currently working @ [Vercel](https://vercel.com).
+- 🔭 I’m currently studying Node JS & Next JS.
 - 🌱 I’m currently working with [React](https://reactjs.org).
-- 👯 Owner of a Developer Community.
-- 💬 Creating content in [my blog](https://blog.gonzalopozzo.com), [Twitch](https://twitch.gonzalopozzo.com) and [YouTube](https://youtube.gonzalopozzo.com).
+- 👯 I’m currently working in Own Projects
+- 💬 Creating content in [Twitter](https://twitter.com/ThedraxxWorld)
 
 <br />
 
 ## Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 
+
+<code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
+<code> <img height="25" src="https://img.shields.io/badge/TypeScript-00337C?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></code>
+<code><img height="25" src="https://img.shields.io/badge/-Styled Components-black?style=for-the-badge&logo=styledcomponents"/></code>
+<code><img height="25" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/></code>
+<code><img height="25" src="https://img.shields.io/badge/-Trello-blue?style=for-the-badge&logo=trello"/></code>
+
+<i class="fab fa-github"></i>
 ---
-
-![Goncy's github stats](https://github-readme-stats.vercel.app/api?username=goncy&show_icons=true&hide_border=true)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedraxx)](https://github.com/thedraxx/github-readme-stats)
