@@ -21,7 +21,7 @@ I'm a Frontend developer with my ♥ in [React](https://reactjs.org).
 ## What i'm up to
 
 - 🔭 I’m currently studying Node JS & Next JS.
-- 🌱 I’m currently working with [React](https://reactjs.org).
+- 🌱 I’m currently working with [React](https://reactjs.org) & [NEXT](https://nextjs.org/).
 - 👯 I’m currently working in Own Projects
 - 💬 Creating content in [Twitter](https://twitter.com/ThedraxxWorld)
 
