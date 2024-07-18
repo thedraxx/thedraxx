@@ -35,3 +35,5 @@ I'm a Frontend developer with my ♥ in [React](https://reactjs.org).
 <i class="fab fa-github"></i>
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedraxx)](https://github.com/thedraxx/github-readme-stats)
+
+<a rel="me" href="https://techhub.social/@Thedraxx">Mastodon</a>
